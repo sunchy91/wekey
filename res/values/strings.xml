@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">微词</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- MainActivity -->
+    <string name="search_hint">输入关键词找人</string>
+    <string-array name="tabs">
+        <item>热门</item>
+        <item>兴趣</item>
+        <item>附近</item>
+        <item>我的</item>
+    </string-array>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <!-- End MainActivity -->
+    <!-- Topic Fragment -->
+    <string name="topic_template">#topic#</string>
+    <string name="topic_hot_count">8万</string>
+    <!-- Topic Fragment -->
+
+
+    <!-- Login -->
+    <string name="username_hint">用户名/手机号</string>
+    <string name="password_hint">密码</string>
+    <string name="register_label">新用户注册</string>
+    <string name="forget_password_label">忘记密码</string>
+    <!-- End Login -->
+    <!-- Register -->
+    <string name="input_mobile_number">输入你的手机号</string>
+    <string name="register_description">你将收到验证身份的短信。手机注册将有效避免垃圾广告、骚扰信息。微词绝不会在任何途径泄露你的手机号码和个人信息。任何社区成员都无权查看你的手机号码。</string>
+    <string name="btn_get_valid_code">收取验证码</string>
+    <string name="hint_wekey_user_license_agreement">注册代表你已阅读并同意</string>
+    <string name="label_user_license_agreement">微词用户协议和隐私条款</string>
+    <!-- End Register -->
+    <string name="region_code_china">+86</string>
+    <string-array name="region_code">
+        <item >中国 +86</item>
+        <item >中国 +87</item>
+        <item >中国 +88</item>
+        <item >中国 +89</item>
+        <item >中国 +90</item>
+    </string-array>
+    <string name="hint_valid_code">请输入验证码</string>
+    <string name="hint_password">密码</string>
+    <string name="hint_nickname">昵称</string>
+    <string name="btn_resend_valid_code">重新发送验证码</string>
+    <string name="btn_valid_code_countdown">验证码已发送:%1$d秒</string>
+    <string name="btn_register">完成注册</string>
+    <string name="register_failed_title">注册失败</string>
+    <string name="register_failed">注册失败，请重试！</string>
+    
+
+</resources>
